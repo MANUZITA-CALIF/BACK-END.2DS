@@ -11,5 +11,3 @@ const meuNome = "Manu";
 console.log (citacao + meuNome);
 
 //template string OU template literal
-
-s
