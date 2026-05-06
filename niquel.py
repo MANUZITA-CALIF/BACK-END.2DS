@@ -2,7 +2,7 @@ import random
 import time
 import os
 
-SIMBOLOS = ['🚀', '⭐', '💎', '🪙', '🍀', '🎁']
+SIMBOLOS = ['🚀', '⭐', '💎', '🪙', '🍀', '🎁' ]
 
 def limpar_tela():
     # Tenta limpar a tela; se falhar (em alguns IDEs), apenas pula linhas
