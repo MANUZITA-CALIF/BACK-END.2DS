@@ -13,5 +13,5 @@ frutas.slice(1,0, 'Kiwi');
 console.log(frutas);
 
 const verduras = ['Cenoura', 'Batata'];
-const frutaseverduras = frutas.concat(verduras);
-console.log(frutaseverduras);
+//const frutaseverduras = frutas.concat(verduras);
+console.log(frutas.concat(verduras));
